@@ -1,3 +1,8 @@
+/* Ryan Khamneian
+   Dr. Dimpsey
+   CSS 436
+   October 15, 2021
+ */
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -5,7 +10,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.MalformedURLException;
 
-public class WebCrawl2nd{
+public class WebCrawl{
     public static void main(String[] args) throws IOException{
         //throws error if the input is valid (description of errors in block above method)
         argumentsAreValid(args);
